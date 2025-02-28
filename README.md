@@ -14,7 +14,6 @@ Clear scope definition to prevent unnecessary feature creep.
 Use cost estimation tools like COCOMO, Function Point Analysis.
 Monitor expenses regularly and adjust resources dynamically.
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
-Feature	Agile	Waterfall
 Agile is Iterative and flexible while waterfall is Linear and structured
 Agile is  highly flexible and accommodates changes anytime while waterfall has Low flexibility– Changes are costly late in development
 Agile has Frequent releases (sprints)	while in waterfall Single final release
